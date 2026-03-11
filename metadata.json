@@ -1,0 +1,5 @@
+{
+  "name": "Sandbox Agent Control",
+  "description": "A professional dashboard for orchestrating and managing AI coding agents in sandboxed environments.",
+  "requestFramePermissions": []
+}
